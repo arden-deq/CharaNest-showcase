@@ -2,7 +2,7 @@
 
 > An offline-first desktop AI companion that lives—and remembers—on your PC
 
-[한국어](README.md) · [GitHub Profile](https://github.com/jungducknam)
+[한국어](README.md) · [GitHub Profile](https://github.com/arden-deq)
 
 ![Status](https://img.shields.io/badge/status-private_development-6f5bd3)
 ![Platform](https://img.shields.io/badge/platform-desktop-20242c)
@@ -122,7 +122,7 @@ The application cannot be built or run from this showcase repository.
 ## Project
 
 - Created and published by **Dev Dot.**
-- GitHub: [@jungducknam](https://github.com/jungducknam)
+- GitHub: [@arden-deq](https://github.com/arden-deq)
 - Documentation baseline: August 2026
 
 ## Copyright
