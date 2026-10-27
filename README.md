@@ -2,7 +2,7 @@
 
 > 사용자의 PC 안에서 기억하고 함께하는, 오프라인 우선 데스크톱 AI 컴패니언
 
-[English](README.en.md) · [GitHub Profile](https://github.com/jungducknam)
+[English](README.en.md) · [GitHub Profile](https://github.com/arden-deq)
 
 ![Status](https://img.shields.io/badge/status-private_development-6f5bd3)
 ![Platform](https://img.shields.io/badge/platform-desktop-20242c)
@@ -141,7 +141,7 @@ Windows와 macOS에서 응답이 달라질 때 코드·모델 hash·runtime buil
 ## 프로젝트 정보
 
 - 제작 및 제공: **Dev Dot.**
-- GitHub: [@jungducknam](https://github.com/jungducknam)
+- GitHub: [@arden-deq](https://github.com/arden-deq)
 - 문서 기준: 2026년 8월
 
 ## 저작권
